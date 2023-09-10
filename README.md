@@ -5,7 +5,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RobertinCarlos&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertinCarlos&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 
-# Vibing with:
+# 🎶 Vibing with:
 [![Spotify](https://profile-novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 # 💻 Tech Stack:
