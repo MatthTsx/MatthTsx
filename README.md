@@ -34,6 +34,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 😂 Random Dev Meme
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=RobertinCarlos&icon=0&color=1)](https://visitcount.itsvg.in)
