@@ -8,6 +8,7 @@
 # 🎶 Vibing with:
 [![Spotify](https://profile-novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
+# 💯 Stats
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
