@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertinCarlos&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 # 🎶 Vibing with:
-[![Spotify](https://profile-novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/Abacute)
+[![Spotify](https://profile-novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/31dyn2toj7m5g4tpgopocoj4a5si)
 
 # 💯 Stats:
 <!--START_SECTION:waka-->
