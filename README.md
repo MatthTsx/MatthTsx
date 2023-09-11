@@ -8,7 +8,13 @@
 # 🎶 Vibing with:
 [![Spotify](https://profile-novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/31dyn2toj7m5g4tpgopocoj4a5si)
 
+<details>
+
+ <summary>
+  
 # 💯 Stats:
+
+ </summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%209%20mins-blue)
 
@@ -88,6 +94,8 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
  Last Updated on 11/09/2023 08:57:37 UTC
 <!--END_SECTION:waka-->
+
+</details>
 
 <details>
 <summary>
