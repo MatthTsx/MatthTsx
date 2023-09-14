@@ -17,7 +17,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -95,7 +95,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RobertinCarlos/RobertinCarlos/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2023 18:12:01 UTC
+ Last Updated on 14/09/2023 18:37:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
