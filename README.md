@@ -60,17 +60,16 @@ Sunday                   66 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Usaco                    58 mins             ████████████████████░░░░░   80.39 % 
-nepsCpp                  14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +89,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RobertinCarlos/RobertinCarlos/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2023 18:36:58 UTC
+ Last Updated on 08/10/2023 18:36:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
