@@ -86,7 +86,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/RobertinCarlos/RobertinCarlos/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
  Last Updated on 10/10/2023 18:37:54 UTC
@@ -109,7 +109,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 # 🏆 GitHub Trophies
 </summary>
 
-![](https://github-profile-trophy.vercel.app/?username=RobertinCarlos&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MatthTsx&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 </details>
 
 # ✍️ Random Dev Quote
@@ -118,4 +118,4 @@ JavaScript               1 repo              █░░░░░░░░░░�
 # 😂 Random Dev Meme
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
 ---
-[![](https://visitcount.itsvg.in/api?id=RobertinCarlos&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MatthTsx&icon=0&color=1)](https://visitcount.itsvg.in)
