@@ -17,7 +17,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -95,7 +95,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2023 18:36:44 UTC
+ Last Updated on 31/12/2023 18:36:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
