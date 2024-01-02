@@ -11,6 +11,18 @@
 <details>
 
  <summary>
+
+# 🦊 Coding Time:
+  
+ </summary>
+
+![](https://github-readme-stats.vercel.app/api/wakatime/?username=Matth__A_O&layout=compact&theme=gotham&custom_title=Most%20Used%20Languages&lan)<br/>
+ 
+</details>
+
+<details>
+
+ <summary>
   
 # 💯 Stats:
 
