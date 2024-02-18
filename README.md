@@ -72,16 +72,18 @@ Sunday                   75 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               5 mins              ███████████████░░░░░░░░░░   60.01 % 
+JSON                     2 mins              ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Rosa's bot               8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +103,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2024 18:36:51 UTC
+ Last Updated on 18/02/2024 18:36:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
