@@ -29,7 +29,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -72,16 +72,18 @@ Sunday                   75 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   50 mins             ████████████████████████░   96.29 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+trabalhos                50 mins             ████████████████████████░   96.29 % 
+1                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +103,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2024 18:36:41 UTC
+ Last Updated on 20/03/2024 18:37:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
