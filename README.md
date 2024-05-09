@@ -29,7 +29,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -37,13 +37,11 @@
 
 > 📦 53.5 kB Used in GitHub's Storage 
  > 
-> 🏆 66 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 23 Public Repositories 
  > 
-> 🔑 15 Private Repositories 
+> 🔑 16 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -72,18 +70,20 @@ Sunday                   84 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 31 mins       ████████████████████████░   97.19 % 
-Prisma                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+TypeScript               2 hrs 32 mins       ████████████████████░░░░░   78.81 % 
+PHP                      38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Prisma                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-automon                  3 hrs 37 mins       █████████████████████████   100.00 % 
+automon                  1 hr 32 mins        ████████████░░░░░░░░░░░░░   47.48 % 
+php_site                 1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   32.46 % 
+php 3                    38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +103,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2024 18:38:20 UTC
+ Last Updated on 09/05/2024 18:37:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
