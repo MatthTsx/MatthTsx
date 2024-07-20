@@ -29,7 +29,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -104,7 +104,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2024 18:40:28 UTC
+ Last Updated on 20/07/2024 18:39:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
