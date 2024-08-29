@@ -35,7 +35,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 53.6 kB Used in GitHub's Storage 
+> 📦 53.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 84 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +101,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2024 18:41:39 UTC
+ Last Updated on 29/08/2024 18:42:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
