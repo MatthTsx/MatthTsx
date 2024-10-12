@@ -37,6 +37,8 @@
 
 > 📦 53.7 kB Used in GitHub's Storage 
  > 
+> 🏆 86 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -70,17 +72,16 @@ Sunday                   90 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-GDScript3                1 hr 12 mins        █████████████████████████   100.00 % 
+GDScript3                48 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Godot                    1 hr 12 mins        █████████████████████████   100.00 % 
+Godot                    48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Into Complex             1 hr 5 mins         ███████████████████████░░   91.27 % 
-Breckeys Tutorial 1      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Into Complex             48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,7 +101,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2024 18:44:20 UTC
+ Last Updated on 12/10/2024 18:42:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
