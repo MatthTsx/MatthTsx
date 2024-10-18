@@ -37,6 +37,8 @@
 
 > 📦 53.7 kB Used in GitHub's Storage 
  > 
+> 🏆 87 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -104,7 +106,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2024 18:45:01 UTC
+ Last Updated on 18/10/2024 18:44:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
