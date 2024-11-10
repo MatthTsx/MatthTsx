@@ -37,8 +37,6 @@
 
 > 📦 53.8 kB Used in GitHub's Storage 
  > 
-> 🏆 102 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -72,16 +70,22 @@ Sunday                   118 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 58 mins        █████████████░░░░░░░░░░░░   51.77 % 
+TypeScript               1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   31.18 % 
+Other                    33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+php last                 2 hrs 24 mins       ████████████████░░░░░░░░░   63.22 % 
+front                    1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   31.18 % 
+php 6                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+php 3                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +105,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 18:41:19 UTC
+ Last Updated on 10/11/2024 18:41:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
