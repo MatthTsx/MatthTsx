@@ -43,45 +43,6 @@
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-🌆 Daytime                237 commits         ████████████░░░░░░░░░░░░░   46.02 % 
-🌃 Evening                188 commits         █████████░░░░░░░░░░░░░░░░   36.50 % 
-🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Tuesday                  85 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Wednesday                93 commits          █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Thursday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Friday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Saturday                 64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Sunday                   118 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,7 +60,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2025 18:45:10 UTC
+ Last Updated on 09/01/2025 18:45:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
