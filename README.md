@@ -31,13 +31,15 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 53.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,20 +74,20 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 56 mins       ████████████████████████░   94.48 % 
-Prisma                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TypeScript               3 hrs 57 mins       ████████████████████████░   95.47 % 
+Prisma                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ElonsY                   3 hrs 6 mins        █████████████████████████   99.99 % 
+ElonsY                   4 hrs 8 mins        █████████████████████████   99.99 % 
 Re Creations             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,7 +107,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2025 18:41:05 UTC
+ Last Updated on 10/02/2025 18:43:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
