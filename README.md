@@ -37,7 +37,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 54.5 kB Used in GitHub's Storage 
+> 📦 57.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,45 +45,6 @@
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-🌆 Daytime                246 commits         ███████████░░░░░░░░░░░░░░   44.32 % 
-🌃 Evening                219 commits         ██████████░░░░░░░░░░░░░░░   39.46 % 
-🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Tuesday                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Wednesday                103 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Thursday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Friday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Saturday                 64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Sunday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -101,7 +62,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2025 18:47:45 UTC
+ Last Updated on 27/03/2025 18:47:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
