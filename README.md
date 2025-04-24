@@ -31,13 +31,15 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 60.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 50 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,7 +103,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2025 18:50:32 UTC
+ Last Updated on 24/04/2025 18:48:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
