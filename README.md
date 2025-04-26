@@ -37,7 +37,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 60.8 kB Used in GitHub's Storage 
+> 📦 60.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,7 +102,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2025 18:48:06 UTC
+ Last Updated on 26/04/2025 18:44:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
