@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -104,7 +104,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2025 18:53:16 UTC
+ Last Updated on 11/12/2025 18:55:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
