@@ -31,9 +31,9 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,17 +74,17 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      13 hrs 29 mins      ██████████████████████░░░   87.63 % 
-Other                    1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+C++                      12 hrs 39 mins      ██████████████████████░░░   86.83 % 
+Other                    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codeforces               15 hrs 23 mins      █████████████████████████   100.00 % 
+codeforces               14 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,7 +104,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2026 19:34:32 UTC
+ Last Updated on 01/04/2026 19:38:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
