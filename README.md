@@ -74,18 +74,16 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      2 hrs 47 mins       ████████████████████████░   96.12 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-codeforces               2 hrs 54 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,7 +103,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 19:40:33 UTC
+ Last Updated on 10/05/2026 19:40:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
