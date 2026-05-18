@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -89,11 +89,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               26 repos            █████████████░░░░░░░░░░░░   53.06 % 
-Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Cuda                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               26 repos            █████████████░░░░░░░░░░░░   52.00 % 
+Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Cuda                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
@@ -103,7 +103,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 19:44:52 UTC
+ Last Updated on 18/05/2026 20:13:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
