@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,16 +74,21 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 21 mins       █████████████████░░░░░░░░   67.96 % 
+C++                      57 mins             ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Prisma                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+csampaio                 2 hrs 30 mins       ██████████████████░░░░░░░   72.47 % 
+Competitive Programming  57 mins             ███████░░░░░░░░░░░░░░░░░░   27.53 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +108,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 20:26:04 UTC
+ Last Updated on 08/07/2026 20:04:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
