@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,24 +74,24 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      21 hrs 43 mins      █████████████████████░░░░   83.25 % 
-PHP                      3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-TypeScript               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+C++                      19 hrs 10 mins      ████████████████████░░░░░   81.94 % 
+PHP                      3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  23 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  22 hrs 6 mins       █████████████████████░░░░   84.76 % 
-public_html              2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-integrando-frontend      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-addAfiliateLink          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-integrando-backend       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Competitive Programming  19 hrs 25 mins      █████████████████████░░░░   83.01 % 
+public_html              2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+integrando-frontend      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+addAfiliateLink          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+integrando-backend       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  26 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  23 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +111,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:56:03 UTC
+ Last Updated on 25/07/2026 19:44:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
