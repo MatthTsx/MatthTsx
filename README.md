@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -52,21 +52,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌆 Daytime                281 commits         ████████████░░░░░░░░░░░░░   47.07 % 
-🌃 Evening                226 commits         █████████░░░░░░░░░░░░░░░░   37.86 % 
+🌞 Morning                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+🌆 Daytime                282 commits         ████████████░░░░░░░░░░░░░   47.16 % 
+🌃 Evening                226 commits         █████████░░░░░░░░░░░░░░░░   37.79 % 
 🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Tuesday                  90 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Wednesday                111 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Thursday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Friday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Sunday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Monday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Tuesday                  91 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Wednesday                111 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Thursday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Friday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Sunday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
 ```
 
 
@@ -76,24 +76,23 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      16 hrs 50 mins      █████████████████████░░░░   82.59 % 
-PHP                      2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+C++                      18 hrs 25 mins      ███████████████████████░░   91.98 % 
+PHP                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  16 hrs 56 mins      █████████████████████░░░░   83.11 % 
-public_html              1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-integrando-frontend      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-addAfiliateLink          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-integrando-backend       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Competitive Programming  18 hrs 31 mins      ███████████████████████░░   92.49 % 
+integrando-frontend      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+public_html              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+integrando-backend       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  20 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,7 +118,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:05:40 UTC
+ Last Updated on 28/07/2026 20:01:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
