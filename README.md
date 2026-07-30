@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -76,24 +76,19 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      13 hrs 59 mins      ██████████████████████░░░   89.90 % 
-PHP                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+C++                      14 hrs 2 mins       █████████████████████████   99.53 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  14 hrs 2 mins       ███████████████████████░░   90.29 % 
-integrando-frontend      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-public_html              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-integrando-backend       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-csampaio                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Competitive Programming  14 hrs 5 mins       █████████████████████████   99.96 % 
+csampaio                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  15 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,7 +114,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:53:17 UTC
+ Last Updated on 30/07/2026 20:02:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
