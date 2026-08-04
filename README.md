@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -76,19 +76,19 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      11 hrs 15 mins      █████████████████████████   99.64 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+C++                      12 hrs 18 mins      █████████████████████████   99.12 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 25 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  11 hrs 17 mins      █████████████████████████   99.96 % 
+Competitive Programming  12 hrs 24 mins      █████████████████████████   99.96 % 
 csampaio                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  11 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -114,7 +114,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:44:16 UTC
+ Last Updated on 04/08/2026 20:10:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
