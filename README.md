@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -76,17 +76,17 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      21 hrs 48 mins      █████████████████████████   98.52 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+C++                      27 hrs 41 mins      █████████████████████████   98.83 % 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  28 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  22 hrs 8 mins       █████████████████████████   100.00 % 
+Competitive Programming  28 hrs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  28 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +112,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:30:25 UTC
+ Last Updated on 08/08/2026 19:09:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
