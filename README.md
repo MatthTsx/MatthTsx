@@ -76,17 +76,17 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      8 hrs 40 mins       ████████████████████████░   97.25 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+C++                      5 hrs 47 mins       ████████████████████████░   96.19 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  8 hrs 54 mins       █████████████████████████   100.00 % 
+Competitive Programming  6 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +112,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:03:29 UTC
+ Last Updated on 20/08/2026 19:11:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
