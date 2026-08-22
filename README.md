@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -76,17 +76,22 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      5 hrs 47 mins       ████████████████████████░   96.19 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+C++                      2 hrs               ███████████████░░░░░░░░░░   61.50 % 
+PHP                      38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  6 hrs 1 min         █████████████████████████   100.00 % 
+Competitive Programming  2 hrs 3 mins        ████████████████░░░░░░░░░   62.98 % 
+integrando-backend       57 mins             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+integrando-frontend      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 💻 Operating System: 
-Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +117,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:07:31 UTC
+ Last Updated on 22/08/2026 18:59:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
