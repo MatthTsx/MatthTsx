@@ -76,22 +76,22 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      1 hr 22 mins        █████████████░░░░░░░░░░░░   52.22 % 
-PHP                      38 mins             ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+PHP                      38 mins             █████████░░░░░░░░░░░░░░░░   34.79 % 
+C++                      35 mins             ████████░░░░░░░░░░░░░░░░░   32.07 % 
+TypeScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+JavaScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  1 hr 25 mins        ██████████████░░░░░░░░░░░   54.05 % 
-integrando-backend       57 mins             █████████░░░░░░░░░░░░░░░░   36.21 % 
-integrando-frontend      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+integrando-backend       57 mins             █████████████░░░░░░░░░░░░   51.48 % 
+Competitive Programming  38 mins             █████████░░░░░░░░░░░░░░░░   34.66 % 
+integrando-frontend      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +117,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:57:45 UTC
+ Last Updated on 24/08/2026 19:10:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
