@@ -52,21 +52,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-🌆 Daytime                292 commits         ████████████░░░░░░░░░░░░░   47.87 % 
-🌃 Evening                228 commits         █████████░░░░░░░░░░░░░░░░   37.38 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+🌞 Morning                82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+🌆 Daytime                292 commits         ████████████░░░░░░░░░░░░░   47.79 % 
+🌃 Evening                228 commits         █████████░░░░░░░░░░░░░░░░   37.32 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Tuesday                  92 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Wednesday                112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Thursday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Friday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Sunday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Monday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Tuesday                  93 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Wednesday                112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Thursday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Friday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Sunday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
 ```
 
 
@@ -76,22 +76,22 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-PHP                      38 mins             █████████░░░░░░░░░░░░░░░░   34.79 % 
-C++                      35 mins             ████████░░░░░░░░░░░░░░░░░   32.07 % 
-TypeScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-JavaScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+PHP                      38 mins             █████████░░░░░░░░░░░░░░░░   37.07 % 
+C++                      28 mins             ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+TypeScript               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+JavaScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-integrando-backend       57 mins             █████████████░░░░░░░░░░░░   51.48 % 
-Competitive Programming  38 mins             █████████░░░░░░░░░░░░░░░░   34.66 % 
-integrando-frontend      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+integrando-backend       57 mins             ██████████████░░░░░░░░░░░   54.87 % 
+Competitive Programming  31 mins             ████████░░░░░░░░░░░░░░░░░   30.37 % 
+integrando-frontend      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 
 💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +117,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:10:35 UTC
+ Last Updated on 25/08/2026 19:08:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
