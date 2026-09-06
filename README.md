@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -41,11 +41,11 @@
 
 > 📦 70.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
@@ -76,16 +76,18 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      8 mins              █████████████████░░░░░░░░   68.13 % 
+JSON                     4 mins              ████████░░░░░░░░░░░░░░░░░   31.87 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+codeforces-nao-ve-isso-ai10 mins             ████████████████████░░░░░   79.62 % 
+Calendar do Zuzu         2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,11 +99,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               28 repos            █████████████░░░░░░░░░░░░   52.83 % 
-Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Cuda                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               28 repos            █████████████░░░░░░░░░░░░   51.85 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Cuda                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
@@ -111,7 +113,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:36:30 UTC
+ Last Updated on 06/09/2026 20:41:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
