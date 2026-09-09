@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -76,22 +76,22 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      4 hrs 36 mins       ██████████████████████░░░   86.84 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C++                      5 hrs 54 mins       ██████████████████████░░░   89.29 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  4 hrs 37 mins       ██████████████████████░░░   87.28 % 
-codeforces-nao-ve-isso-ai37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Calendar do Zuzu         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Competitive Programming  5 hrs 55 mins       ██████████████████████░░░   89.78 % 
+codeforces-nao-ve-isso-ai37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Calendar do Zuzu         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Windows                  5 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +117,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:20:21 UTC
+ Last Updated on 09/09/2026 21:05:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
