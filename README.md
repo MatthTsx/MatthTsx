@@ -76,23 +76,22 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      5 hrs 54 mins       ██████████████████████░░░   88.46 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-MATLAB                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+C++                      5 hrs 54 mins       ███████████████████████░░   91.43 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+MATLAB                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  5 hrs 55 mins       ██████████████████████░░░   88.94 % 
-codeforces-nao-ve-isso-ai37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Lista Computacional 1    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Calendar do Zuzu         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Competitive Programming  5 hrs 55 mins       ███████████████████████░░   91.93 % 
+codeforces-nao-ve-isso-ai27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Lista Computacional 1    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Windows                  6 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -118,7 +117,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:49:03 UTC
+ Last Updated on 13/09/2026 21:03:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
