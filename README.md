@@ -76,22 +76,21 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      2 hrs 59 mins       ██████████████████████░░░   89.02 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-MATLAB                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+C++                      2 hrs 59 mins       ███████████████████████░░   90.70 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  3 hrs 11 mins       ████████████████████████░   94.92 % 
-TestExpo                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Lista Computacional 1    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Competitive Programming  3 hrs 11 mins       ████████████████████████░   96.71 % 
+TestExpo                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 💻 Operating System: 
-Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +116,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:37:31 UTC
+ Last Updated on 18/09/2026 21:08:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
