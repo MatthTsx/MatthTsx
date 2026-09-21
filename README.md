@@ -76,21 +76,20 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      2 hrs 59 mins       ███████████████████████░░   90.70 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C++                      18 mins             ██████████████████░░░░░░░   70.95 % 
+JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  3 hrs 11 mins       ████████████████████████░   96.71 % 
-TestExpo                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Competitive Programming  20 mins             ███████████████████░░░░░░   75.68 % 
+TestExpo                 6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
 
 💻 Operating System: 
-Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,7 +115,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:00:20 UTC
+ Last Updated on 21/09/2026 22:08:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
