@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -76,21 +76,21 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      12 hrs 24 mins      ██████████████████████░░░   89.91 % 
-Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+C++                      14 hrs 50 mins      ███████████████████████░░   93.07 % 
+Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  12 hrs 34 mins      ███████████████████████░░   91.14 % 
-ML-Library               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Competitive Programming  15 hrs 1 min        ████████████████████████░   94.22 % 
+ML-Library               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 💻 Operating System: 
-Windows                  13 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,7 +116,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:45:14 UTC
+ Last Updated on 07/10/2026 23:15:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
