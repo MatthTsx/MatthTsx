@@ -76,20 +76,19 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      18 hrs 5 mins       ███████████████████████░░   93.76 % 
-Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+C++                      17 hrs 12 mins      ████████████████████████░   94.66 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  19 hrs 3 mins       █████████████████████████   98.79 % 
-ML-Library               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Competitive Programming  18 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -115,7 +114,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:49:20 UTC
+ Last Updated on 10/10/2026 21:56:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
