@@ -31,9 +31,9 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -76,25 +76,46 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      15 hrs 39 mins      ███████████████████████░░   91.36 % 
-Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C++                      13 hrs 14 mins      ███████████████████░░░░░░   75.89 % 
+Python                   2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+PowerShell               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  16 hrs 49 mins      ████████████████████████░   96.46 % 
+Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🐱‍💻 Projects: 
-Competitive Programming  17 hrs 8 mins       █████████████████████████   100.00 % 
+Competitive Programming  14 hrs 42 mins      █████████████████████░░░░   84.29 % 
+impatech-linear-porgrammi2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Shaki                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 💻 Operating System: 
-Windows                  17 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 39 mins (3.77%)
+
+✍️ 62 lines written by AI, 2,265 lines written by hand (2.66% AI-written)
+
+🔤 99,305 Input Tokens, 42,025 Output Tokens
+
+💵 $1.69 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 10 AI Prompts
+
+Opus                     62 lines            █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 2.66% of written lines came from AI
+📝 Concise Prompter — average 97 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 98.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,7 +135,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 23:01:20 UTC
+ Last Updated on 14/10/2026 21:53:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
