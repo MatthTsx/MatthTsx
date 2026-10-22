@@ -31,7 +31,7 @@
  </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2038%20mins-blue?style=flat)
 
@@ -76,50 +76,50 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 8 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.07 % 
-Python                   5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-C++                      4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Other                    3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-TypeScript               2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Markdown                 7 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
+C++                      4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Python                   3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+TypeScript               2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Other                    2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 10 mins      ████████████████░░░░░░░░░   63.95 % 
-VS Code                  10 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   36.05 % 
+Claude Code              14 hrs 50 mins      ████████████████░░░░░░░░░   65.70 % 
+VS Code                  7 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.30 % 
 
 🐱‍💻 Projects: 
-bots                     8 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-p0-landing               7 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-impatech-linear-porgrammi4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Competitive Programming  2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-testing                  2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+bots                     8 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.84 % 
+p0-landing               7 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
+Competitive Programming  3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+impatech-linear-porgrammi1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+dummy                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 💻 Operating System: 
-Linux                    28 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 53 mins (69.98%)
+⏱ AI Coding Time: 16 hrs 21 mins (72.37%)
 
-✍️ 16,046 lines written by AI, 1,436 lines written by hand (91.79% AI-written)
+✍️ 14,566 lines written by AI, 991 lines written by hand (93.63% AI-written)
 
-🔤 8,176,658 Input Tokens, 1,820,503 Output Tokens
+🔤 7,505,072 Input Tokens, 1,630,899 Output Tokens
 
-💵 $135.18 Estimated AI Cost This Week
+💵 $122.71 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 298 AI Prompts
+🧠 43 AI Sessions, 235 AI Prompts
 
-Sonnet                   8,514 lines         █████████████░░░░░░░░░░░░   51.51 % 
-Opus                     7,902 lines         ████████████░░░░░░░░░░░░░   47.80 % 
-Fable                    114 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Sonnet                   8,514 lines         ██████████████░░░░░░░░░░░   57.51 % 
+Opus                     6,177 lines         ██████████░░░░░░░░░░░░░░░   41.72 % 
+Fable                    114 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.79% of written lines came from AI
-📚 Verbose Prompter — average 1,910 characters per prompt
+🤖 AI-Driven — 93.63% of written lines came from AI
+📚 Verbose Prompter — average 2,055 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 10.06% of changed lines were hand-edited
+🚀 High AI Trust — 7.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,7 +139,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:54:21 UTC
+ Last Updated on 22/10/2026 21:51:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
