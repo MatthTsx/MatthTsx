@@ -76,50 +76,50 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 7 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
-C++                      4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Python                   3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-TypeScript               2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Other                    2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Markdown                 5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+C++                      3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Python                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+TypeScript               2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 50 mins      ████████████████░░░░░░░░░   65.70 % 
-VS Code                  7 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.30 % 
+Claude Code              11 hrs 58 mins      █████████████████░░░░░░░░   67.40 % 
+VS Code                  5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.60 % 
 
 🐱‍💻 Projects: 
-bots                     8 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.84 % 
-p0-landing               7 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
-Competitive Programming  3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-impatech-linear-porgrammi1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-dummy                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+p0-landing               7 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.73 % 
+bots                     5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.11 % 
+Competitive Programming  3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+impatech-linear-porgrammi1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+mateus                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Linux                    22 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 21 mins (72.37%)
+⏱ AI Coding Time: 12 hrs 56 mins (72.86%)
 
-✍️ 14,566 lines written by AI, 991 lines written by hand (93.63% AI-written)
+✍️ 11,063 lines written by AI, 837 lines written by hand (92.97% AI-written)
 
-🔤 7,505,072 Input Tokens, 1,630,899 Output Tokens
+🔤 5,885,256 Input Tokens, 1,279,783 Output Tokens
 
-💵 $122.71 Estimated AI Cost This Week
+💵 $94.64 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 235 AI Prompts
+🧠 32 AI Sessions, 192 AI Prompts
 
-Sonnet                   8,514 lines         ██████████████░░░░░░░░░░░   57.51 % 
-Opus                     6,177 lines         ██████████░░░░░░░░░░░░░░░   41.72 % 
-Fable                    114 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Sonnet                   8,514 lines         ███████████████████░░░░░░   76.30 % 
+Opus                     2,531 lines         ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Fable                    114 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.63% of written lines came from AI
-📚 Verbose Prompter — average 2,055 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.65% of changed lines were hand-edited
+🤖 AI-Driven — 92.97% of written lines came from AI
+📚 Verbose Prompter — average 1,866 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 8.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,7 +139,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 21:51:43 UTC
+ Last Updated on 23/10/2026 21:35:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
