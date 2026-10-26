@@ -76,49 +76,49 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-Markdown                 2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-TypeScript               2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Other                    2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+C++                      3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.39 % 
+TypeScript               2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+Other                    2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 27 mins       ██████████████████░░░░░░░   71.41 % 
-VS Code                  3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+Claude Code              5 hrs 51 mins       ████████████████░░░░░░░░░   63.51 % 
+VS Code                  3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
 
 🐱‍💻 Projects: 
-p0-landing               6 hrs 56 mins       ███████████████░░░░░░░░░░   58.53 % 
-Competitive Programming  3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-202                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-mateus                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Documents                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+p0-landing               4 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.93 % 
+Competitive Programming  3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
+202                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+mateus                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Documents                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Linux                    11 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 44 mins (73.74%)
+⏱ AI Coding Time: 6 hrs 8 mins (66.51%)
 
-✍️ 8,078 lines written by AI, 549 lines written by hand (93.64% AI-written)
+✍️ 7,781 lines written by AI, 549 lines written by hand (93.41% AI-written)
 
-🔤 3,660,736 Input Tokens, 703,143 Output Tokens
+🔤 2,843,468 Input Tokens, 462,564 Output Tokens
 
-💵 $59.98 Estimated AI Cost This Week
+💵 $50.77 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 140 AI Prompts
+🧠 15 AI Sessions, 84 AI Prompts
 
-Sonnet                   8,121 lines         █████████████████████████   98.17 % 
-Opus                     151 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Sonnet                   7,824 lines         █████████████████████████   98.11 % 
+Opus                     151 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.64% of written lines came from AI
-📚 Verbose Prompter — average 1,617 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 7.87% of changed lines were hand-edited
+🤖 AI-Driven — 93.41% of written lines came from AI
+📚 Verbose Prompter — average 2,157 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 8.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -138,7 +138,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:06:44 UTC
+ Last Updated on 26/10/2026 22:50:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
