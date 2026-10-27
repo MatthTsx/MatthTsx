@@ -76,49 +76,47 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.39 % 
-TypeScript               2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-Other                    2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Other                    1 hr 43 mins        ████████████░░░░░░░░░░░░░   47.98 % 
+C++                      1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   40.48 % 
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 51 mins       ████████████████░░░░░░░░░   63.51 % 
-VS Code                  3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
+Claude Code              2 hrs 5 mins        ███████████████░░░░░░░░░░   58.58 % 
+VS Code                  1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   41.42 % 
 
 🐱‍💻 Projects: 
-p0-landing               4 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.93 % 
-Competitive Programming  3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
-202                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-mateus                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Documents                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Competitive Programming  1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   40.99 % 
+202                      55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+p0-landing               39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+mateus                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Documents                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Linux                    9 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 8 mins (66.51%)
+⏱ AI Coding Time: 2 hrs 5 mins (58.42%)
 
-✍️ 7,781 lines written by AI, 549 lines written by hand (93.41% AI-written)
+✍️ 17 lines written by AI, 184 lines written by hand (8.46% AI-written)
 
-🔤 2,843,468 Input Tokens, 462,564 Output Tokens
+🔤 266,435 Input Tokens, 37,825 Output Tokens
 
-💵 $50.77 Estimated AI Cost This Week
+💵 $21.15 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 84 AI Prompts
+🧠 10 AI Sessions, 35 AI Prompts
 
-Sonnet                   7,824 lines         █████████████████████████   98.11 % 
-Opus                     151 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Opus                     151 lines           ██████████████████████░░░   89.35 % 
+Sonnet                   18 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.41% of written lines came from AI
-📚 Verbose Prompter — average 2,157 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 8.15% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 8.46% of written lines came from AI
+📚 Verbose Prompter — average 2,638 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 93.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -138,7 +136,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:50:31 UTC
+ Last Updated on 27/10/2026 22:30:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
