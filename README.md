@@ -76,31 +76,29 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    1 hr 8 mins         ████████████████░░░░░░░░░   63.89 % 
-C++                      33 mins             ████████░░░░░░░░░░░░░░░░░   30.99 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Other                    1 hr 8 mins         ███████████████████████░░   92.58 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 🔥 Editors: 
-Claude Code              1 hr 10 mins        █████████████████░░░░░░░░   67.34 % 
-VS Code                  34 mins             ████████░░░░░░░░░░░░░░░░░   32.66 % 
+Claude Code              1 hr 10 mins        █████████████████████████   98.72 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🐱‍💻 Projects: 
-202                      51 mins             ████████████░░░░░░░░░░░░░   49.12 % 
-Competitive Programming  33 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
-p0-landing               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-mateus                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Documents                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+202                      51 mins             ██████████████████░░░░░░░   72.01 % 
+p0-landing               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+mateus                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Documents                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 
 💻 Operating System: 
-Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (67.01%)
+⏱ AI Coding Time: 1 hr 10 mins (98.24%)
 
-✍️ 17 lines written by AI, 65 lines written by hand (20.73% AI-written)
+✍️ 17 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 162,146 Input Tokens, 13,130 Output Tokens
 
@@ -113,10 +111,10 @@ Sonnet                   18 lines            ███░░░░░░░░�
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.73% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📚 Verbose Prompter — average 3,313 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 80.68% of changed lines were hand-edited
+🚀 High AI Trust — 19.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +134,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:46:17 UTC
+ Last Updated on 29/10/2026 22:55:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
