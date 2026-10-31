@@ -76,45 +76,22 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    1 hr 8 mins         ███████████████████████░░   92.58 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Other                    7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              1 hr 10 mins        █████████████████████████   98.72 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Claude Code              2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-202                      51 mins             ██████████████████░░░░░░░   72.01 % 
-p0-landing               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-mateus                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Documents                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (98.24%)
-
-✍️ 17 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 162,146 Input Tokens, 13,130 Output Tokens
-
-💵 $19.62 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 22 AI Prompts
-
-Opus                     151 lines           ██████████████████████░░░   89.35 % 
-Sonnet                   18 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,313 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 19.05% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -134,7 +111,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MatthTsx/MatthTsx/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 22:35:05 UTC
+ Last Updated on 31/10/2026 21:48:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
